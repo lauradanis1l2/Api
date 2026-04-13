@@ -35,5 +35,3 @@ npm install
 npm start
 ```
 
-## Observación
-Se incluye el archivo `enlace_repositorio.txt` para pegar el enlace del repositorio remoto cuando se publique en GitHub o GitLab.
