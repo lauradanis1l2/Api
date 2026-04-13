@@ -1,0 +1,16 @@
+Enlace del repositorio:
+Pendiente de publicación remota.
+
+Pasos sugeridos:
+1. Crear repositorio en GitHub o GitLab.
+2. Ejecutar:
+   git init
+   git add .
+   git commit -m "Primer commit del servicio web"
+   git branch -M main
+   git remote add origin <URL_DEL_REPOSITORIO>
+   git push -u origin main
+3. Reemplazar este texto con el enlace real.
+
+Nota:
+En este entorno no fue posible publicar el repositorio automáticamente.

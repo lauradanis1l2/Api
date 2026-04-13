@@ -1,0 +1,14 @@
+{
+  "name": "servicio-web-login-registro",
+  "version": "1.0.0",
+  "description": "Servicio web para registro e inicio de sesi\u00f3n - evidencia GA7-220501096-AA5-EV01",
+  "main": "src/server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
